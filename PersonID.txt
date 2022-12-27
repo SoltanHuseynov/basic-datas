@@ -17,4 +17,4 @@
      9089034532      Miller    33    Texas       Enginery
      8923421287      Fuhler    42    Germany     Enginery
      4567382045      Natash    28    Ukranie     EngilshTeacher 
-     7237489934      Murad     19    Azerbaijan  Cyber Secruity
+     7237489934      Murad     19    Azerbaijan  CyberSecruity
