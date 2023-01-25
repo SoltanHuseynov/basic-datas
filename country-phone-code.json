@@ -344,7 +344,7 @@
    },
    {
       "name": "Dominican Republic",
-      "code": "+1-809, 1-829, 1-849",
+      "code": "+1-809",
       "emoji": "🇩🇴",
       "unicode": "U+1F1E9 U+1F1F4",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg"
@@ -1086,7 +1086,7 @@
    },
    {
       "name": "Puerto Rico",
-      "code": "+1-787, 1-939",
+      "code": "+1-787",
       "emoji": "🇵🇷",
       "unicode": "U+1F1F5 U+1F1F7",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg"
