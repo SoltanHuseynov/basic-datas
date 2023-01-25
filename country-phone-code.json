@@ -1,14 +1,14 @@
 [
 {
 "name": "Ascension Island",
-"code": "AC",
+"code": "+247",
 "emoji": "🇦🇨",
 "unicode": "U+1F1E6 U+1F1E8",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AC.svg"
 },
 {
 "name": "Andorra",
-"code": "AD",
+"code":"+376",
 "emoji": "🇦🇩",
 "unicode": "U+1F1E6 U+1F1E9",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg"
@@ -22,84 +22,84 @@
 },
 {
 "name": "Afghanistan",
-"code": "AF",
+"code":"+93",
 "emoji": "🇦🇫",
 "unicode": "U+1F1E6 U+1F1EB",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg"
 },
 {
 "name": "Antigua & Barbuda",
-"code": "AG",
+"code":"+1-268",
 "emoji": "🇦🇬",
 "unicode": "U+1F1E6 U+1F1EC",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg"
 },
 {
 "name": "Anguilla",
-"code": "AI",
+"code":"+1-264",
 "emoji": "🇦🇮",
 "unicode": "U+1F1E6 U+1F1EE",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg"
 },
 {
 "name": "Albania",
-"code": "AL",
+"code":"+355",
 "emoji": "🇦🇱",
 "unicode": "U+1F1E6 U+1F1F1",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg"
 },
 {
 "name": "Armenia",
-"code": "AM",
+"code":"+374",
 "emoji": "🇦🇲",
 "unicode": "U+1F1E6 U+1F1F2",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg"
 },
 {
 "name": "Angola",
-"code": "AO",
+"code":"+244",
 "emoji": "🇦🇴",
 "unicode": "U+1F1E6 U+1F1F4",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg"
 },
 {
 "name": "Antarctica",
-"code": "AQ",
+"code":"+672",
 "emoji": "🇦🇶",
 "unicode": "U+1F1E6 U+1F1F6",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg"
 },
 {
 "name": "Argentina",
-"code": "AR",
+"code":"+54",
 "emoji": "🇦🇷",
 "unicode": "U+1F1E6 U+1F1F7",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg"
 },
 {
 "name": "American Samoa",
-"code": "AS",
+"code":"+1-684",
 "emoji": "🇦🇸",
 "unicode": "U+1F1E6 U+1F1F8",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg"
 },
 {
 "name": "Austria",
-"code": "AT",
+"code":"+43",
 "emoji": "🇦🇹",
 "unicode": "U+1F1E6 U+1F1F9",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg"
 },
 {
 "name": "Australia",
-"code": "AU",
+"code":"+61",
 "emoji": "🇦🇺",
 "unicode": "U+1F1E6 U+1F1FA",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
 },
 {
 "name": "Aruba",
-"code": "AW",
+"code":"+297",
 "emoji": "🇦🇼",
 "unicode": "U+1F1E6 U+1F1FC",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AW.svg"
@@ -113,63 +113,63 @@
 },
 {
 "name": "Azerbaijan",
-"code": "AZ",
+"code":"+994",
 "emoji": "🇦🇿",
 "unicode": "U+1F1E6 U+1F1FF",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg"
 },
 {
 "name": "Bosnia & Herzegovina",
-"code": "BA",
+"code":"+387",
 "emoji": "🇧🇦",
 "unicode": "U+1F1E7 U+1F1E6",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg"
 },
 {
 "name": "Barbados",
-"code": "BB",
+"code":"+1-246",
 "emoji": "🇧🇧",
 "unicode": "U+1F1E7 U+1F1E7",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg"
 },
 {
 "name": "Bangladesh",
-"code": "BD",
+"code":"+880",
 "emoji": "🇧🇩",
 "unicode": "U+1F1E7 U+1F1E9",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg"
 },
 {
 "name": "Belgium",
-"code": "BE",
+"code":"+32",
 "emoji": "🇧🇪",
 "unicode": "U+1F1E7 U+1F1EA",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg"
 },
 {
 "name": "Burkina Faso",
-"code": "BF",
+"code":"+226",
 "emoji": "🇧🇫",
 "unicode": "U+1F1E7 U+1F1EB",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg"
 },
 {
 "name": "Bulgaria",
-"code": "BG",
+"code":"+359",
 "emoji": "🇧🇬",
 "unicode": "U+1F1E7 U+1F1EC",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg"
 },
 {
 "name": "Bahrain",
-"code": "BH",
+"code":"+973",
 "emoji": "🇧🇭",
 "unicode": "U+1F1E7 U+1F1ED",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg"
 },
 {
 "name": "Burundi",
-"code": "BI",
+"code":"+257",
 "emoji": "🇧🇮",
 "unicode": "U+1F1E7 U+1F1EE",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
@@ -1821,7 +1821,7 @@
 },
 {
 "name": "Wales",
-"code": "WALES",
+"code":"+681",
 "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
 "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F",
 "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WALES.svg"
