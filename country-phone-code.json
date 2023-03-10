@@ -101,6 +101,7 @@
       "name": "Azerbaijan",
       "code": "+994",
       "emoji": "🇦🇿",
+      "len":10,
       "unicode": "U+1F1E6 U+1F1FF",
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg"
    },
